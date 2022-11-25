@@ -2,6 +2,8 @@
 
 ## No pierdan detalle ya que trataremos los distintos tipos de lenguajes de programación y sus categorías
 
+![1665737612444 (1)](https://user-images.githubusercontent.com/115450050/203975741-1861f201-4975-40fe-8ef7-93d51ecd5684.jpg)
+
 
 ## **ÍNDICE**
 
