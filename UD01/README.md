@@ -2,8 +2,7 @@
 
 ## No pierdan detalle ya que trataremos los distintos tipos de lenguajes de programación y sus categorías
 
-![1665737612444 (1)](https://user-images.githubusercontent.com/115450050/203975741-1861f201-4975-40fe-8ef7-93d51ecd5684.jpg)
-
+![lenguajes-de-programacion-featured](https://user-images.githubusercontent.com/115450050/203976964-48c7d1e1-69f7-4947-ba98-527daaed6b22.png)
 
 ## **ÍNDICE**
 
@@ -26,7 +25,7 @@ Bajo nivel: Un lenguaje de programación de bajo nivel, es aquel en el que sus i
 
 Medio nivel: Se beneficia de las ventajas de ambos y elimina o reduce los inconvenientes que cada uno tendría por separado. Estos lenguajes se usan para el desarrollo de distintas aplicaciones o funcionalidades como, por ejemplo: hojas de cálculo, sistemas operativos, gestores de bases de datos, etc. Ejemplos: C Basic, C++, Fortran, Cosbol
 
-Alto nivel: Proporciona instrucciones que permiten realizar más complejas y diseñar estructuras para resolver problemas. Ejemplos : Java, Php…
+Alto nivel: Proporciona instrucciones que permiten realizar tareas más complejas y diseñar estructuras para resolver problemas. Ejemplos : Java, Php…
 
 
 
