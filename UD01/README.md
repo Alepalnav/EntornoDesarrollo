@@ -5,11 +5,24 @@
 
 ### **ÍNDICE**
 
-1 - Categorías (nivel de abstracción, forma de ejecución, paradigma).
+1 - [Categorías ](#categorías) (nivel de abstracción, forma de ejecución, paradigma).
 
-2 - Subtipos y ejemplos.
+2 - [Subtipos y ejemplos](#subtipos-y-ejemplos)
 
-3 - Muestras de código.
+3 - [Muestras de código](#muestras-de-código)
+
+
+
+
+## Categorías
+
+
+
+## Subtipos y ejemplos
+
+
+
+## Muestras de código
 
 
 
