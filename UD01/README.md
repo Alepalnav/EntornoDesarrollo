@@ -59,14 +59,16 @@ Los lenguajes de programación orientada a objetos pertenecen a los lenguajes im
 
 ## Muestras de código
 
-### Ejemplo JavaScript (Lenguaje de Alto Nivel)
+### Ejemplo JavaScript (Lenguaje de Alto Nivel (Nivel de abstracción))
 ![Captura de pantalla 2022-11-25 123837](https://user-images.githubusercontent.com/92607906/203979883-ff9c6ebe-2ef4-48f3-b055-26614d3117b9.png)
 ![Captura de pantalla 2022-11-25 123855](https://user-images.githubusercontent.com/92607906/203979933-7111c672-77f9-4617-b4ad-ab5456b44ee5.png)
 ![Diseño sin título (4)](https://user-images.githubusercontent.com/92607906/203981084-2461e505-7943-4d7d-9e2e-76dfde1dee69.gif)
 
+### Ejemplo Java (Lenguaje imperativo (Paradigma))
 
+![Captura de pantalla_20221128_085527](https://user-images.githubusercontent.com/92607906/204223818-c7dcbdb7-72f6-464a-bab9-e37926d95b26.png)
 
-
+### Ejemplo C++ 
 
 
 
