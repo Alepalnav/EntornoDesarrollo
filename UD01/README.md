@@ -22,13 +22,22 @@ Lo determinan los tipos de datos abstractos presentes en el lenguaje. Un tipo de
 
 Existen diferentes niveles : Bajo nivel, medio nivel, alto nivel
 
+![4482fe09d95a0be765154b9cefff5e07f7fc32ff](https://user-images.githubusercontent.com/115450050/205121959-3927175a-c17f-4daa-aadb-afa320995b63.png)
+
+
 ### **Forma de ejecución**
 
 Es el sistema que se utiliza para iniciar flujos de mensajes a través de una serie de nodos. Cuando se inicializa un servidor de integración, se ponen a disposición del entorno de ejecución los archivos de la biblioteca de implementación cargable (LIL) y los archivos PAR (Plug-in Archive). Se diferencian 3 modelos: Compilados, interpretados y virtuales. 
 
+![c-plus-plus-lenguaje-de-programacion-logo](https://user-images.githubusercontent.com/115450050/205122550-a4f524b7-4224-4652-9ba2-ced41ce5c3aa.png)
+
  
 ### **Paradigma**
  Es un método para resolver un problema o realizar una tarea. Si bien existen diferentes lenguajes de programación se necesita de una estrategia cuando se implementa, es decir, un camino, y ese puede ser los paradigmas. Se subdivide en distintos tipos.
+ 
+![java-lenguaje-de-programacion-logo](https://user-images.githubusercontent.com/115450050/205122970-fd7e854a-0f2e-4fcb-b221-b4d509b784a1.png)
+
+
 
 ## Subtipos y ejemplos
 ### **NIVEL DE ABSTRACCIÓN**
