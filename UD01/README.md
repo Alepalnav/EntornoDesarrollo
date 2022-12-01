@@ -66,9 +66,12 @@ Los lenguajes de programación orientada a objetos pertenecen a los lenguajes im
 
 ### Ejemplo Java (Lenguaje imperativo (Paradigma))
 
+
 ![Captura de pantalla_20221128_085527](https://user-images.githubusercontent.com/92607906/204223818-c7dcbdb7-72f6-464a-bab9-e37926d95b26.png)
 
-### Ejemplo C++ 
+### Ejemplo C++ (Lenguaje compilado (Forma de ejecución))
+![Captura de pantalla_20221201_180412](https://user-images.githubusercontent.com/92607906/205115055-936580ae-b1a0-4ee7-ad05-ce416d1297d6.png)
+![Captura de pantalla_20221201_180423](https://user-images.githubusercontent.com/92607906/205115097-35b94fb1-ec8f-4b83-b74a-01072e139e24.png)
 
 
 
